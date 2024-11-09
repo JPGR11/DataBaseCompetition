@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="_pU-WNQT1wnBNlO78gKb">
-    <mxGraphModel dx="1106" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="553" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,7 +359,7 @@
           <mxGeometry x="985" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n1prHvsE-R-aELV-WZbh-213" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="460" width="90" height="40" as="geometry" />
+          <mxGeometry x="1300" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n1prHvsE-R-aELV-WZbh-214" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="750" y="890" width="90" height="40" as="geometry" />
@@ -373,13 +373,13 @@
             <mxPoint x="910" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1prHvsE-R-aELV-WZbh-218" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="n1prHvsE-R-aELV-WZbh-218" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1prHvsE-R-aELV-WZbh-154" target="n1prHvsE-R-aELV-WZbh-213">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="430" as="sourcePoint" />
             <mxPoint x="910" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1prHvsE-R-aELV-WZbh-219" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="n1prHvsE-R-aELV-WZbh-219" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1prHvsE-R-aELV-WZbh-213" target="n1prHvsE-R-aELV-WZbh-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="430" as="sourcePoint" />
             <mxPoint x="910" y="380" as="targetPoint" />
@@ -396,6 +396,9 @@
             <mxPoint x="860" y="430" as="sourcePoint" />
             <mxPoint x="910" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n1prHvsE-R-aELV-WZbh-222" value="Contract_Invoice" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="465" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
